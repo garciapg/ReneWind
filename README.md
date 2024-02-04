@@ -1,1 +1,1 @@
-# Predicting-Production-Failures-using-Classification-Models-and-Pipelines
+We must build various classification models (Log Reg, Dtree, Bagging, AdaBoost, GradientBoosting), tuned them and find the best ones to help identify failures in the production process so generators could be replaced before failing and the overall maintenance cost could be reduced.
